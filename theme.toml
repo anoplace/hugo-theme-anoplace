@@ -1,17 +1,12 @@
-name = "Anoplace"
+name = "anoplace"
 license = "MIT"
-licenselink = "https://github.com/.../.../LICENSE.md"
-description = ""
-homepage = "http://siteforthistheme.com/"
+licenselink = "https://raw.githubusercontent.com/anoplace/hugo-theme-anoplace/master/LICENSE.md"
+description = "anoplace corporate website theme for Hugo"
+homepage = "https://github.com/anoplace/hugo-theme-anoplace/"
 tags = ["", ""]
 features = ["", ""]
 
 [author]
-  name = ""
-  homepage = ""
-
-# If porting an existing theme
-[original]
-  name = ""
-  homepage = ""
-  repo = ""
+  name = "anoplace inc"
+  email = "info@ano-place.com"
+  homepage = "http://www.ano-place.com"

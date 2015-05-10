@@ -1,0 +1,32 @@
+{
+  "name": "hugo-theme-anoplace",
+  "description": "anoplace corporate website theme for Hugo",
+  "version": "0.0.0",
+  "author": "anoplace <info@ano-place.com>",
+  "bugs": {
+    "url": "https://github.com/anoplace/hugo-theme-anoplace/issues"
+  },
+  "dependencies": {
+    "bower": "^1.4.1",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-typescript": "^2.7.2",
+    "require-dir": "^0.3.0",
+    "tsd": "^0.5.7",
+    "typescript": "^1.5.0-beta",
+    "typescript-require": "^0.2.8"
+  },
+  "homepage": "https://github.com/anoplace/hugo-theme-anoplace",
+  "keywords": [
+    "hugo"
+  ],
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anoplace/hugo-theme-anoplace.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
